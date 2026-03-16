@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "aternos_afkbot.aternos.me"
+    "ip": "aternos_afkbot.aternos.me",
     "port": 55715,
     "version": "",
     "try-creative": false
