@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imporstor",
+    "username": "creawmate",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "andonglinh.aternos.me",
-    "port": 35682,
+    "ip": "aternos_afkbot.aternos.me"
+    "port": 55715,
     "version": "",
     "try-creative": false
   },
