@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "imporstor",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "bruh-EEDU.aternos.me",
+    "ip": "andonglinh.aternos.me",
     "port": 35682,
     "version": "",
     "try-creative": false
