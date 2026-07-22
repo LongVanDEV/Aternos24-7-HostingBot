@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "javaandbedrock-AJGV.aternos.me",
-    "port": 30034,
+    "ip": "khstudio.aternos.me",
+    "port": 59304,
     "version": "",
     "try-creative": false
   },
